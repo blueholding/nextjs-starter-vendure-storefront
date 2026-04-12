@@ -17,7 +17,10 @@ const nextConfig: NextConfig = {
             },
             {
                 hostname: 'localhost'
-            }
+            },
+            {
+                hostname: 'bramjlive.com'
+            },
         ],
     },
     experimental: {
